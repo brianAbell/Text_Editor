@@ -1,1 +1,7 @@
-Project which used basic knowledge about loops, strings, methods, classes and other topics in addition to using SWING, a widget library for GUI (graphical user interface).
+Description:   Text editor program.  Allows searching for specific files and allows you to open them.
+
+Material:      Loops
+               Strings
+               Methods
+               Classes
+               SWING Interface (Widget library for GUI)
