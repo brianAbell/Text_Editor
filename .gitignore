@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Text Editor/task/build/
+/Text Editor/task/build/classes/java/main/
+/Text Editor/task/build/classes/java/test/
